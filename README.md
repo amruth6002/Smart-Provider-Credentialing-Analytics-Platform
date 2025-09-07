@@ -247,5 +247,8 @@ Edit `src/genai.py` to:
 - Use rule-based fallback for fastest responses
 
 ### Error Handling
-The system provides clear feedback, graceful degradation, and automatic fallback to rule-based responses when AI models aren’t available.
+- The system provides clear feedback, graceful degradation, and automatic fallback to rule-based responses when AI models aren’t available.
+- If the error persists and unable to resolve kindly raise an issue or contact the authors/contributors.
+
+
 
